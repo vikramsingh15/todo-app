@@ -1,13 +1,13 @@
 # todo-app
 
 
-#Quick start
+# Quick start
 
 
-##npm install ->(/api)
+### npm install ->(/api)
 
-##npm install ->(/client)
+### npm install ->(/client)
 
-## npm start ->(/api)
+### npm start ->(/api)
 
-## npm start  ->(/client)
+### npm start  ->(/client)
